@@ -1,0 +1,192 @@
+.body{
+margin: 0px;
+padding: 0px;
+}
+
+
+.container{
+    width: 100%;
+    margin: 0px;
+}
+
+.header{
+    background-color:#1F2833;
+    margin: 0px;
+    padding: 0px;
+}
+
+.row{
+    display: flex;
+    justify-content:space-around;
+    margin: auto;
+    border-color: black;
+    /*padding: auto;*/
+}
+
+.nav-path{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.navLink{
+    list-style-type: none;
+    margin: 10px;
+}
+
+.Home{
+    /*background-color:blueviolet ;*/
+    margin-top: 30px;
+    background-color:#0B0C10;
+
+}
+
+.text{
+    text-transform:lowercase;
+}
+.homeleft{
+    width: 60%;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color:hwb(177 27% 36%);
+    box-shadow:10px 20px 40px 50px;
+}
+
+.homeright{
+    width: 40%;
+    margin: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    align-self: center;
+    display: flex;
+    box-shadow:10px 20px 40px 50px;
+
+    
+}
+
+.profilepic{
+    margin: auto;
+    border-radius: 100%;
+}
+
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+    color:#66FCF1;
+    border-color: black;
+}
+
+.card{
+    border-radius: 10px;
+    border-color: black;
+    border: solid;
+    background-color: #45A29E;
+    width: 250px;
+    height: 40%;
+    box-shadow: 5px 5px #1F2833;
+}
+
+.title{
+    text-align: center;
+    color: blue;
+}
+
+.blogImg{
+    width: 100%;
+    height: 200px;
+}
+
+.BlogDis{
+    padding: 10px;
+}
+
+.skillImg{
+    border-radius: 100%;
+    border-color:black;
+    border-style: solid;
+    margin: 10px;
+    
+}
+
+.skillDiv{
+    background-color: #45A29E;
+    border: #1F2833;
+    box-shadow: #1F2833;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:black;
+    
+}
+.skillText{
+    font-size: 24px;
+    color:white;
+    text-align: left;
+    border-color: black;
+    border-style: solid;
+    font-weight: 500;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+
+.Experiance{
+    width: 100%;
+    margin: auto;
+}
+
+.Education{
+    width: 100%;
+    margin: auto;
+}
+
+.expBox{
+    border-radius: 10px;
+    border-style: solid;
+    border-color:black;
+   width: 90%;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    background-color:#45A29E;
+    box-shadow: 5px 5px #1F2833;
+
+}
+
+.eduBox{
+    width: 70%;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:black;
+    margin: auto;
+    padding: 10px;
+    background-color:#45A29E;   
+     box-shadow: 5px 5px #1F2833;
+}
+
+.Personal Details{
+    width: 100%;
+    margin: auto;
+}
+
+.aboutBox{
+    width: 70%;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:black;
+    margin: auto;
+    padding: 15px;
+    background-color:#45A29E;   
+     box-shadow: 5px 5px #1F2833;
+     text-align:left;
+     
+    }
+
+    
